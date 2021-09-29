@@ -1,1 +1,1 @@
-# canvas
+canvas project made of vanilla javascript
